@@ -1,0 +1,39 @@
+<?xml version="1.0" encoding="utf-8"?>
+<Root>
+  <Node>
+    <name>space</name>
+    <gid>0</gid>
+  </Node>
+  <Node>
+    <name>camel</name>
+    <gid>3</gid>
+  </Node>
+
+  <Node>
+    <name>sheep</name>
+    <gid>47</gid>
+  </Node>
+
+  <Node>
+    <name>riverDefault</name>
+    <gid>43</gid>
+  </Node>
+
+  <Node>
+    <name>riverSheep</name>
+    <gid>53</gid>
+  </Node>
+
+  <Node>
+    <name>riverCamel</name>
+    <gid>63</gid>
+  </Node>
+
+  
+  <!--草堆-->
+  <Node>
+    <name>mow</name>
+    <gid>48</gid>
+  </Node>
+  
+</Root>

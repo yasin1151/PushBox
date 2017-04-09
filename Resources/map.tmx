@@ -1,0 +1,16 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<map version="1.0" orientation="orthogonal" width="12" height="7" tilewidth="70" tileheight="70">
+ <tileset firstgid="1" name="Map" tilewidth="70" tileheight="70">
+  <image source="Map.png" width="700" height="840"/>
+ </tileset>
+ <layer name="bgLayer" width="12" height="7">
+  <data encoding="base64" compression="zlib">
+   eJzTZGBgMAZiTSJpUtRqkqh2OJgPAAdeDxk=
+  </data>
+ </layer>
+ <layer name="walkLayer" width="12" height="7">
+  <data encoding="base64" compression="zlib">
+   eJwzYGBgMCAREwuQ1TMCMRMJ6rmBmIcE9SDAjMTWh9LaeNQTAqSGCwgDAHq4Btg=
+  </data>
+ </layer>
+</map>
